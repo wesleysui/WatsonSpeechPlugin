@@ -7,8 +7,8 @@
     <description>Watson Speech Cordova Plugin</description>
     <license>Apache 2.0</license>
     <keywords>Watson, Speech, STT, TTS</keywords>
-    <repo>https://github.com/CognitiveBuild/WatsonSpeechPlugin.git</repo>
-    <issue>https://github.com/CognitiveBuild/WatsonSpeechPlugin/issues</issue>
+    <repo>https://github.com/wesleysui/WatsonSpeechPlugin.git</repo>
+    <issue>https://github.com/wesleysui/WatsonSpeechPlugin/issues</issue>
 
     <js-module src="www/watson-sdk.js" name="WatsonSDK">
         <clobbers target="window.WatsonSDK" />
