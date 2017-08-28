@@ -9,7 +9,7 @@
     ]
   },
   "description": "Watson Speech Cordova Plugin",
-  "repository": "https://github.com/CognitiveBuild/WatsonSpeechPlugin.git",
+  "repository": "https://github.com/wesleysui/WatsonSpeechPlugin.git",
   "issue": "https://github.com/CognitiveBuild/WatsonSpeechPlugin/issues",
   "keywords": [
     "watson",
